@@ -156,15 +156,15 @@
 <wire x1="104.5" y1="85" x2="107.5" y2="82" width="0" layer="20" curve="-90"/>
 <wire x1="104.5" y1="0" x2="107.5" y2="3" width="0" layer="20" curve="90"/>
 <wire x1="3" y1="0" x2="0" y2="3" width="0" layer="20" curve="-90"/>
-<text x="19" y="89" size="1.778" layer="48">Front Plate - Material = 1.5mm clear Polycarbonate.  All holes = 2.4mm</text>
-<hole x="5" y="80" drill="2.4"/>
-<hole x="18.5" y="58" drill="2.4"/>
-<hole x="18.5" y="28" drill="2.4"/>
-<hole x="5" y="5" drill="2.4"/>
-<hole x="87.5" y="28" drill="2.4"/>
-<hole x="87.5" y="58" drill="2.4"/>
-<hole x="102.5" y="80" drill="2.4"/>
-<hole x="102.5" y="5" drill="2.4"/>
+<text x="17.1875" y="89.875" size="1.778" layer="48">Front Plate - Material = 1.5mm clear Polycarbonate.  All holes = 3.0mm</text>
+<hole x="5" y="80" drill="3"/>
+<hole x="18.5" y="58" drill="3"/>
+<hole x="18.5" y="28" drill="3"/>
+<hole x="5" y="5" drill="3"/>
+<hole x="87.5" y="28" drill="3"/>
+<hole x="87.5" y="58" drill="3"/>
+<hole x="102.5" y="80" drill="3"/>
+<hole x="102.5" y="5" drill="3"/>
 </plain>
 <libraries>
 </libraries>
